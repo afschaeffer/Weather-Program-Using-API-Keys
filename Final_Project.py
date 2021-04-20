@@ -1,5 +1,6 @@
 #Amy Schaeffer
-#Final Project
+#Final Project for Introduction to Programming Course
+#A program that pulls and displays weather data from a website for a user specififed zip code
 
 import urllib.request
 import json
